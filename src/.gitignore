@@ -1,0 +1,8 @@
+.vscode
+*.o
+*.a
+*.out
+*.gcno 
+*.info 
+*.gcda 
+html
